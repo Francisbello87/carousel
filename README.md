@@ -1,0 +1,1 @@
+This is an image carousel built using HTML, CSS and Vanilla Javascript.
